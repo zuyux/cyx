@@ -5,7 +5,7 @@ CYX is a synthetic basket token that aggregates the top 50 native cryptocurrenci
 ## Features
 
 - **Diversified Exposure:**  
-  CYX represents a basket of 50 native cryptocurrencies, reducing unsystematic risk and offering broad market exposure in one token.
+  CYX represents a basket of 50 native cryptocurrencies, non-stablecoins, reducing unsystematic risk and offering broad market exposure in one token.
 
 - **Real-Time Data via Chainlink:**  
   The contract fetches price and market cap data from Chainlink oracles to ensure that NAV calculations reflect the latest market conditions.
