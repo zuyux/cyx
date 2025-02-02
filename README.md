@@ -1,6 +1,6 @@
 # CYX
 
-CYX is a synthetic basket token that aggregates the top 50 native cryptocurrencies into a single, diversified asset. Built on Rootstock (RSK) using Solidity, CYX fetches Chainlink oracles for real-time price and market capitalization data, calculates its Net Asset Value (NAV), and manages minting and burning operations. The token’s governance is planned to be managed by a decentralized autonomous organization (DAO), with 50% of resources earmarked for Research & Development in distributed systems, cryptography, P2P protocols, computing, and general science.
+CYX is a synthetic basket token that aggregates the top 50 native cryptocurrencies into a single, diversified asset. Built on Rootstock (RSK) using Solidity, CYX fetches Chainlink oracles for real-time price and market capitalization data, calculates its Net Asset Value (NAV), and processes minting and burning operations. The token’s governance is planned to be managed by a decentralized autonomous organization (DAO), with 50% of resources earmarked for Research & Development in distributed systems, cryptography, P2P protocols, computing, and general science.
 
 ## Features
 
